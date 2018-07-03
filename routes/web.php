@@ -11,9 +11,14 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+Route::view('/', 'welcome');
+Route::view('/services', 'services');
+Route::view('/contact', 'contact');
+Route::view('/about', 'about');
 
 Auth::routes();
 
