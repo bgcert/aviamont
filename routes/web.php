@@ -17,7 +17,8 @@
 
 Route::view('/', 'welcome');
 Route::view('/services', 'services');
-Route::view('/contact', 'contact');
+Route::view('/about', 'about');
+Route::view('/base', 'base');
 Route::view('/about', 'about');
 
 Auth::routes();

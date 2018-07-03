@@ -53,22 +53,16 @@ CSS
 		<div class="container main-menu">
 			<div class="row align-items-center justify-content-between d-flex">
 				<div id="logo">
-					<a href="/"><img src="img/logo.png" alt="" title="" /></a>
+					<a href="/"><img src="img/aviamont_logo.png" alt="" title="" /></a>
 				</div>
 				<nav id="nav-menu-container">
 					<ul class="nav-menu">
 						<li class="menu-active"><a href="/">Начало</a></li>
 						<li><a href="/about">За нас</a></li>
 						<li><a href="/services">Услуги</a></li>
-						<li><a href="projects.html">Projects</a></li>
-						<li class="menu-has-children"><a href="">Blog</a>
-							<ul>
-								<li><a href="blog-home.html">Blog Home</a></li>
-								<li><a href="blog-single.html">Blog Single</a></li>
-							</ul>
-						</li>						          
+						<li><a href="/base">Ремонтна База</a></li>
+						<li><a href="/certificates">Сертификати</a></li>
 						<li><a href="/contact">Контакти</a></li>
-						<li><a href="elements.html">Elements</a></li>
 					</ul>
 				</nav><!-- #nav-menu-container -->		    		
 			</div>
