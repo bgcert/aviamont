@@ -56,7 +56,11 @@
 		</div>
 	</div>	
 </section>
-<!-- End cat Area -->		
+<!-- End cat Area -->	
+
+<div class="container">	
+	@include('includes.carousel')
+</div>	
 
 
 <!-- Start home-about Area -->
