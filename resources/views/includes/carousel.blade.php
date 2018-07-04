@@ -17,9 +17,13 @@
 		<li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
 		<li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
 		<li data-target="#carouselExampleIndicators" data-slide-to="16"></li>
+		<li data-target="#carouselExampleIndicators" data-slide-to="17"></li>
 	</ol>
 	<div class="carousel-inner">
 		<div class="carousel-item active">
+			<img class="d-block" src="/img/slides/15.jpg" alt="Second slide">
+		</div>
+		<div class="carousel-item">
 			<div class="overlay overlay-bg" style="opacity: 0.3;"></div>
 			<img class="d-block" src="/img/slides/1.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
@@ -143,7 +147,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block" src="/img/slides/6.jpg" alt="Second slide">
+			<img class="d-block" src="/img/slides/14.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
 				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
@@ -152,7 +156,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block" src="/img/slides/6.jpg" alt="Second slide">
+			<img class="d-block" src="/img/slides/13.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
 				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
