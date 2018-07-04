@@ -16,6 +16,7 @@
 		<li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
 		<li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
 		<li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
+		<li data-target="#carouselExampleIndicators" data-slide-to="16"></li>
 	</ol>
 	<div class="carousel-inner">
 		<div class="carousel-item active">
@@ -98,7 +99,7 @@
 			<img class="d-block" src="/img/slides/10.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
 				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
-				<div class="banner-content col-lg-12 col-md-12" style="text-align: left">
+				<div class="banner-content col-lg-12 col-md-12">
 					<h2 class="text-white">ОСНОВНА ЦЕЛ:</h2>
 					<p class="text-white">"РАЗВИТИЕ НА УПРАВЛЕНСКИЯ КАПАЦИТЕТ И ОСИГУРЯВАНЕ НА РАСТЕЖ"</p>
 				</div>
@@ -108,7 +109,7 @@
 			<img class="d-block" src="/img/slides/10.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
 				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
-				<div class="banner-content col-lg-12 col-md-12" style="text-align: left">
+				<div class="banner-content col-lg-12 col-md-12">
 					<h3 class="text-white">КОНКРЕТНИ ЦЕЛИ</h3>
 					<p class="text-white">
 						1. Подобряване на пазарните и експортните, предимства на дружеството;<br>
@@ -118,9 +119,9 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<img class="d-block" src="/img/slides/10.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12" style="text-align: left">
 					<h2 class="text-white">ИЗПЪЛНЕНИ ДЕЙНОСТИ:</h2>
 					<ul>
@@ -132,9 +133,9 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<img class="d-block" src="/img/slides/9.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
 					<h2 class="text-white">ИЗБОР НА ИЗПЪЛНИТЕЛИ</h2>
 					<p>Бяха спазени всички изисквания и срокове за подготвка и изпълнение на ЗУСЕСИФ и публикуваното Ръководство за изпълнение на договорите за БФП по ОПИК 2014-2020.</p>
@@ -142,27 +143,27 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<img class="d-block" src="/img/slides/6.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
-					<h1>ВНЕДРЕНA СИСТЕМA ЗА УПРАВЛЕНИЕ ISO 9001</h1>
+					<h2 class="text-white">ВНЕДРЕНA СИСТЕМA ЗА УПРАВЛЕНИЕ ISO 9001</h2>
 				</div>
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<img class="d-block" src="/img/slides/6.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
-					<h1>ВНЕДРЕНA СИСТЕМA ЗА УПРАВЛЕНИЕ ISO 14001</h1>
+					<h2 class="text-white">ВНЕДРЕНA СИСТЕМA ЗА УПРАВЛЕНИЕ ISO 14001</h2>
 				</div>
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<img class="d-block" src="/img/slides/12.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
 					<h2 class="text-white">ПРОДУКТОВО СЪОТВЕТСТВИЕ</h2>
 					<p>Съществен принос за интернационализация чрез "СЕ" маркировката на нови продукти</p>
@@ -171,18 +172,18 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<img class="d-block" src="/img/slides/11.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
 					<h3 class="text-white">Нова организация на работа и оптимизация на технологичните процеси</h3>
 				</div>
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<img class="d-block" src="/img/slides/11.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
 					<h2 class="text-white">ОПТИМИЗАЦИЯ</h2>
 					<ul>
@@ -194,9 +195,9 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<img class="d-block" src="/img/slides/4.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
 					<h2 class="text-white">НОВО ТЕХНОЛОГИЧНО ОБОРУДВАНЕ</h2>
 					<ul>
