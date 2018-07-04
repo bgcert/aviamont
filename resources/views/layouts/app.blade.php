@@ -58,9 +58,9 @@ CSS
 				<nav id="nav-menu-container">
 					<ul class="nav-menu">
 						<li class="menu-active"><a href="/">Начало</a></li>
-						<li><a href="/about">За нас</a></li>
-						<li><a href="/services">Услуги</a></li>
-						<li><a href="/base">Ремонтна База</a></li>
+						<li><a href="#about">За нас</a></li>
+						<li><a href="#services">Услуги</a></li>
+						<li><a href="#base">Ремонтна База</a></li>
 						<li><a href="/certificates">Сертификати</a></li>
 						<li><a href="/contact">Контакти</a></li>
 					</ul>
