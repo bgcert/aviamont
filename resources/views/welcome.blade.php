@@ -68,7 +68,6 @@
 	<div class="container">
 		<div class="row justify-content-center align-items-center">
 			<div class="col-lg-8 col-md-12 home-about-left">
-				<!-- <h6>Brand new app to blow your mind</h6> -->
 				<h1>
 					"Авиоремонтен завод" ЕООД
 				</h1>
@@ -128,7 +127,7 @@
 					<div class="thumb">
 						<img src="img/service1.jpg" alt="">
 					</div>
-					<h4>Специализирани операции за авиохимически работи</h4>
+					<a href="/services"><h4>Специализирани операции за авиохимически работи</h4></a>
 					<p>
 						inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
 					</p>
@@ -196,6 +195,70 @@
 		</div>
 	</div>	
 </section>
-<!-- End project Area -->
+<!-- End project Area -->	  
 
+<!-- Start contact-page Area -->
+<section class="contact-page-area section-gap">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-md-8 pb-30 header-text text-center">
+				<h1 class="mb-10">Свържете се с нас</h1>
+				<p>
+					Who are in extremely love with eco friendly system..
+				</p>
+			</div>
+		</div>	
+		<div class="row">
+			<div class="map-wrap" style="width:100%; height: 445px;" id="map"></div>
+			<div class="col-lg-4 d-flex flex-column address-wrap">
+				<div class="single-contact-address d-flex flex-row">
+					<div class="icon">
+						<span class="lnr lnr-home"></span>
+					</div>
+					<div class="contact-details">
+						<h5>Монтана, България</h5>
+						<p>56/8, West Panthapath</p>
+					</div>
+				</div>
+				<div class="single-contact-address d-flex flex-row">
+					<div class="icon">
+						<span class="lnr lnr-phone-handset"></span>
+					</div>
+					<div class="contact-details">
+						<h5>00 (880) 9865 562</h5>
+						<p>Mon to Fri 9am to 6 pm</p>
+					</div>
+				</div>
+				<div class="single-contact-address d-flex flex-row">
+					<div class="icon">
+						<span class="lnr lnr-envelope"></span>
+					</div>
+					<div class="contact-details">
+						<h5>office@aviamont.com</h5>
+						<p>Send us your query anytime!</p>
+					</div>
+				</div>														
+			</div>
+			<div class="col-lg-8">
+				<form class="form-area " id="myForm" action="mail.php" method="post" class="contact-form text-right">
+					<div class="row">	
+						<div class="col-lg-6 form-group">
+							<input name="name" placeholder="Въведете име" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Въведете име'" class="common-input mb-20 form-control" required="" type="text">
+
+							<input name="email" placeholder="Въведете и-мейл адрес" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" class="common-input mb-20 form-control" required="" type="email">
+
+							<input name="subject" placeholder="Относно" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Относно'" class="common-input mb-20 form-control" required="" type="text">
+							<div class="mt-20 alert-msg" style="text-align: left;"></div>
+						</div>
+						<div class="col-lg-6 form-group">
+							<textarea class="common-textarea form-control" name="message" placeholder="Съобщение" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Съобщение'" required=""></textarea>
+							<button class="genric-btn primary circle mt-30" style="float: right;">Изпратете съобщението</button>								
+						</div>
+					</div>
+				</form>	
+			</div>
+		</div>
+	</div>	
+</section>
+<!-- End contact-page Area -->
 @endsection

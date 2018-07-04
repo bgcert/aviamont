@@ -62,7 +62,7 @@ CSS
 						<li><a href="#services">Услуги</a></li>
 						<li><a href="#base">Ремонтна База</a></li>
 						<li><a href="/certificates">Сертификати</a></li>
-						<li><a href="/contact">Контакти</a></li>
+						<li><a href="#contact">Контакти</a></li>
 					</ul>
 				</nav><!-- #nav-menu-container -->		    		
 			</div>

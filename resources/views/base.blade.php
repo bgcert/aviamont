@@ -15,8 +15,7 @@
 		</div>
 	</div>
 </section>
-<!-- End banner Area -->	
-
+<!-- End banner Area -->
 
 <!-- Start project Area -->
 <section class="project-area section-gap" id="project">
