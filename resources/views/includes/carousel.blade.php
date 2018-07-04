@@ -13,11 +13,14 @@
 		<li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
 		<li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
 		<li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
+		<li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
+		<li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
+		<li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
 	</ol>
 	<div class="carousel-inner">
 		<div class="carousel-item active">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<div class="overlay overlay-bg" style="opacity: 0.3;"></div>
+			<img class="d-block" src="/img/slides/1.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
 				<div class="banner-content col-lg-12 col-md-12">
 					<h1>Авиоремонтен Завод ЕООД</h1>
@@ -26,8 +29,8 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<div class="overlay overlay-bg" style="opacity: 0.4;"></div>
+			<img class="d-block" src="/img/slides/2.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
 				<div class="banner-content col-lg-12 col-md-12">
 					<h2 class="text-white">Авиоремонтен завод“ ЕООД – гр.Монтана е специализиран в:</h2>
@@ -40,8 +43,8 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<div class="overlay overlay-bg" style="opacity: 0.4;"></div>
+			<img class="d-block" src="/img/slides/3.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
 				<div class="banner-content col-lg-12 col-md-12">
 					<h2 class="text-white">Авиоремонтен завод“ ЕООД</h2>
@@ -50,9 +53,9 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<img class="d-block" src="/img/slides/7.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
 					<h2 class="text-white">Базата разполага</h2>
 					<p class="text-white">с 4 (четири) работни помещения за ремонт и модернизация на самолетни двигатели, летателни апарати (авионика) и радио оборудването</p>
@@ -60,9 +63,9 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<img class="d-block" src="/img/slides/7.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
 					<h2 class="text-white">Базата разполага също и</h2>
 					<p class="text-white">с хале и система от специализирани стойки и установки за ремонт на самолети и двигатели, оборудвана с изпитвателна площадка за предполетна подготовка и изпитване на контролираните параметри на самолетите</p>
@@ -70,34 +73,43 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<img class="d-block" src="/img/slides/8.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
-					<h1>ЕВРОФИНАНСИРАНЕ</h1>
+					
+					<h2 class="text-white">ЕВРОФИНАНСИРАНЕ</h2>
 					<p class="text-white">Дружеството спечели еврофинансиране по ОП „Иновации и конкурентноспособност“, съфинансирана от Европейския съюз чрез Европейския фонд за регионално развитие</p>
 				</div>
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<img class="d-block" src="/img/slides/10.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
-					<h2 class="text-white">СТОЙНОСТ НА БЮДЖЕТА В ЛЕВА: 211 170.00</h2>
-					<h2 class="text-white">ФИНАНСИРАНЕ ОТ ЕС ЕФРР: 125 646.15</h2>
-					<h2 class="text-white">НАЦИОНАЛНО ФИНАНСИРАНЕ: 22 172.85</h2>
+					<h3 class="text-white">СТОЙНОСТ НА БЮДЖЕТА В ЛЕВА: 211 170.00</h3>
+					<h3 class="text-white">ФИНАНСИРАНЕ ОТ ЕС ЕФРР: 125 646.15</h3>
+					<h3 class="text-white">НАЦИОНАЛНО ФИНАНСИРАНЕ: 22 172.85</h3>
 				</div>
 			</div>
 		</div>
 		<div class="carousel-item">
-			<div class="overlay overlay-bg"></div>
-			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<img class="d-block" src="/img/slides/10.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12" style="text-align: left">
 					<h2 class="text-white">ОСНОВНА ЦЕЛ:</h2>
-					<p class="text-white">“РАЗВИТИЕ НА УПРАВЛЕНСКИЯ КАПАЦИТЕТ И ОСИГУРЯВАНЕ НА РАСТЕЖ“</p>
-					<h2 class="text-white">КОНКРЕТНИ ЦЕЛИ</h2>
+					<p class="text-white">"РАЗВИТИЕ НА УПРАВЛЕНСКИЯ КАПАЦИТЕТ И ОСИГУРЯВАНЕ НА РАСТЕЖ"</p>
+				</div>
+			</div>
+		</div>
+		<div class="carousel-item">
+			<img class="d-block" src="/img/slides/10.jpg" alt="Second slide">
+			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
+				<div class="banner-content col-lg-12 col-md-12" style="text-align: left">
+					<h3 class="text-white">КОНКРЕТНИ ЦЕЛИ</h3>
 					<p class="text-white">
 						1. Подобряване на пазарните и експортните, предимства на дружеството;<br>
 						2. Подобряване на нивото на пазарна и добавена стойност
@@ -144,6 +156,54 @@
 			<div class="carousel-caption d-none d-md-block">
 				<div class="banner-content col-lg-12 col-md-12">
 					<h1>ВНЕДРЕНA СИСТЕМA ЗА УПРАВЛЕНИЕ ISO 14001</h1>
+				</div>
+			</div>
+		</div>
+		<div class="carousel-item">
+			<div class="overlay overlay-bg"></div>
+			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<div class="carousel-caption d-none d-md-block">
+				<div class="banner-content col-lg-12 col-md-12">
+					<h2 class="text-white">ПРОДУКТОВО СЪОТВЕТСТВИЕ</h2>
+					<p>Съществен принос за интернационализация чрез "СЕ" маркировката на нови продукти</p>
+					<p>ОСВЕТИТЕЛНИ ТЕЛА ЗА LED ОСВЕТЛЕНИЕ</p>
+				</div>
+			</div>
+		</div>
+		<div class="carousel-item">
+			<div class="overlay overlay-bg"></div>
+			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<div class="carousel-caption d-none d-md-block">
+				<div class="banner-content col-lg-12 col-md-12">
+					<h3 class="text-white">Нова организация на работа и оптимизация на технологичните процеси</h3>
+				</div>
+			</div>
+		</div>
+		<div class="carousel-item">
+			<div class="overlay overlay-bg"></div>
+			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<div class="carousel-caption d-none d-md-block">
+				<div class="banner-content col-lg-12 col-md-12">
+					<h2 class="text-white">ОПТИМИЗАЦИЯ</h2>
+					<ul>
+						<li>1. Оптимизирано управление на проектирането/ разработването</li>
+						<li>2. Подреждане на работните места и техника за оптимизация на движенията</li>
+						<li>3. Подобрение на качеството на контрола за намаляване на грешките</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="carousel-item">
+			<div class="overlay overlay-bg"></div>
+			<img class="d-block" src="https://placeimg.com/1920/480/any" alt="Second slide">
+			<div class="carousel-caption d-none d-md-block">
+				<div class="banner-content col-lg-12 col-md-12">
+					<h2 class="text-white">НОВО ТЕХНОЛОГИЧНО ОБОРУДВАНЕ</h2>
+					<ul>
+						<li>1. Комплект за навигационни и комуникационни наземни изпитвания и изпитване на радиомаяци</li>
+						<li>2. Комплект за наземнo изпитване на транспондери</li>
+						<li>3. Многофункционален ултразвуков дефектоскоп</li>
+					</ul>
 				</div>
 			</div>
 		</div>
