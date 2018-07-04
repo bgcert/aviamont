@@ -18,6 +18,7 @@
 		<li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
 		<li data-target="#carouselExampleIndicators" data-slide-to="16"></li>
 		<li data-target="#carouselExampleIndicators" data-slide-to="17"></li>
+		<li data-target="#carouselExampleIndicators" data-slide-to="18"></li>
 	</ol>
 	<div class="carousel-inner">
 		<div class="carousel-item active">
@@ -200,6 +201,20 @@
 		</div>
 		<div class="carousel-item">
 			<img class="d-block" src="/img/slides/4.jpg" alt="Second slide">
+			<div class="carousel-caption d-none d-md-block">
+				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
+				<div class="banner-content col-lg-12 col-md-12">
+					<h2 class="text-white">НОВО ТЕХНОЛОГИЧНО ОБОРУДВАНЕ</h2>
+					<ul>
+						<li>1. Комплект за навигационни и комуникационни наземни изпитвания и изпитване на радиомаяци</li>
+						<li>2. Комплект за наземнo изпитване на транспондери</li>
+						<li>3. Многофункционален ултразвуков дефектоскоп</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="carousel-item">
+			<img class="d-block" src="/img/slides/5.jpg" alt="Second slide">
 			<div class="carousel-caption d-none d-md-block">
 				<div class="overlay overlay-bg" style="opacity: 0.5;"></div>
 				<div class="banner-content col-lg-12 col-md-12">
