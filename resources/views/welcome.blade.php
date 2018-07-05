@@ -16,7 +16,16 @@
 					Повече от 10 години Авиамонт АД извършва полети в съответствие с критериите за сертификация.
 				</p>
 				<a href="/contact" class="primary-btn header-btn text-uppercase">Свържете се с нас</a>
-				<p class="mt-20"><a href="/documents/project_arz.pdf" target="_blank"><img src="/img/banner.png"></a></p>
+				<div class="container" style="margin-top: 40px;">
+					<div class="row">
+						<div class="col-sm">
+							<img src="/img/banner.png">
+						</div>
+						<div class="col-sm">
+							<a href="/documents/project_arz.pdf" target="_blank"><img src="/img/pdf_image.png"></a>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
