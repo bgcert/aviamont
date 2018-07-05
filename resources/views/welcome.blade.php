@@ -6,7 +6,7 @@
 <section class="banner-area relative" id="home">
 	<div class="overlay overlay-bg"></div>
 	<div class="container">
-		<div class="row d-flex align-items-center justify-content-center" style="height: 700px;">
+		<div class="row fullscreen d-flex align-items-center justify-content-center">
 			<div class="banner-content col-lg-12 col-md-12">
 				<h6 class="text-uppercase">Don’t look further, here is the key</h6>
 				<h1>
@@ -16,7 +16,8 @@
 					Повече от 10 години Авиамонт АД извършва полети в съответствие с критериите за сертификация.
 				</p>
 				<a href="/contact" class="primary-btn header-btn text-uppercase">Свържете се с нас</a>
-			</div>												
+				<p class="mt-20"><a href="/documents/project_arz.pdf" target="_blank"><img src="/img/banner.png"></a></p>
+			</div>
 		</div>
 	</div>
 </section>
