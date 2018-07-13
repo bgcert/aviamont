@@ -8,13 +8,13 @@
 	<!-- Author Meta -->
 	<meta name="author" content="codepixer">
 	<!-- Meta Description -->
-	<meta name="description" content="">
+	<meta name="description" content="Авиамонт АД, Авиоремонтен завод ЕООД. Специализирани операции за авиохимически работи, Организация за техническо обслужване-BG.145.4023, Обучение на пилоти за авиохимически работи">
 	<!-- Meta Keyword -->
-	<meta name="keywords" content="">
+	<meta name="keywords" content="Авиамонт АД, Авиоремонтен завод ЕООД. Специализирани операции за авиохимически работи, Организация за техническо обслужване-BG.145.4023, Обучение на пилоти за авиохимически работи">
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!-- Site Title -->
-	<title>Industry</title>
+	<title>Авиамонт АД</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 <!--
@@ -44,8 +44,8 @@ CSS
 						</ul>
 					</div>
 					<div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">
-						<a href="tel:+880 012 3654 896">+880 012 3654 896</a>
-						<a href="mailto:support@colorlib.com">support@colorlib.com</a>				
+						<a href="tel:+880 012 3654 896">+359 888 62 72 48</a>
+						<a href="mailto:support@colorlib.com">office@aviamont.com</a>				
 					</div>
 				</div>			  					
 			</div>
